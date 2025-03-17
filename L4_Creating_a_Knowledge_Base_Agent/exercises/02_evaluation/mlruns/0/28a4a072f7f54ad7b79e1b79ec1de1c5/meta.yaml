@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henriquesantana/Projects/Udacity/agents/l4/exercises/02_evaluation/mlruns/0/28a4a072f7f54ad7b79e1b79ec1de1c5/artifacts
+end_time: 1741836454387
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 28a4a072f7f54ad7b79e1b79ec1de1c5
+run_name: mysterious-quail-162
+run_uuid: 28a4a072f7f54ad7b79e1b79ec1de1c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741836454380
+status: 3
+tags: []
+user_id: henriquesantana

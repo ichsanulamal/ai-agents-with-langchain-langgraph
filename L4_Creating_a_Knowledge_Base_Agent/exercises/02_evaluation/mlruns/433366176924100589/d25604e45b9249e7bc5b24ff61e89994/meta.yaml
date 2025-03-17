@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/henriquesantana/Projects/Udacity/agents/l4/exercises/02_evaluation/mlruns/433366176924100589/d25604e45b9249e7bc5b24ff61e89994/artifacts
+end_time: 1741875530376
+entry_point_name: ''
+experiment_id: '433366176924100589'
+lifecycle_stage: active
+run_id: d25604e45b9249e7bc5b24ff61e89994
+run_name: l4_exercise_02
+run_uuid: d25604e45b9249e7bc5b24ff61e89994
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741875512326
+status: 3
+tags: []
+user_id: henriquesantana
